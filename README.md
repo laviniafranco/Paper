@@ -14,7 +14,7 @@
 </head>
 <body>
     <div style="height: 100vh;">
-        <iframe src="https://laviniafranco.github.io/Resume/Lavinia_Franco_CV.pdf" width="100%" height="100%"></iframe>
+        <iframe src="https://laviniafranco.github.io/Resume/JMP_Lavinia_Franco.pdf" width="100%" height="100%"></iframe>
     </div>
 </body>
 </html>
